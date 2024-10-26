@@ -1,0 +1,12 @@
+---
+title: "Course Project"
+author: "Andrew Reed"
+date: "2024-10-26"
+output: html_document
+---
+
+## This is a markdown file
+```{r}
+print("HelloWorld")
+```
+
